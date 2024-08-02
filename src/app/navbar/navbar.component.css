@@ -1,0 +1,12 @@
+nav {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  background-color: #f8f9fa;
+}
+input {
+  width: 50%;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
